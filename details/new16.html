@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <title>Young Budding in Rubber</title>
+  <style>
+    body {
+      margin: 0;
+      background: #deded0;
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      color: #333;
+      overflow-y: auto;
+       overflow-x: auto;
+    }
+
+    /* Header */
+    .topbar {
+      background: #4a4827;
+      height: 85px;
+      position: relative;
+    }
+    .logo {
+      position: absolute;
+      left: 30px;
+      top: 10px;
+      height: 65px;
+    }
+    .nav-btn {
+      position: absolute;
+      top: 20px;
+      right: 25px;
+      color: #fff;
+      text-decoration: none;
+      font-size: 12px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .nav-btn.back { right: 100px; }
+    .nav-btn img { width: 48px; display: block; margin: 0 auto 2px auto; }
+
+    /* Layout */
+    .container {
+      display: flex;
+      height: calc(100vh - 85px);
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .video-section {
+  flex: 1.2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    }
+
+    video {
+  width: 90%;
+  aspect-ratio: 16/9;
+  border-radius: 6px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+  object-fit: cover;
+  background: #000;
+    }
+
+
+    .details {
+      flex: 1;
+      background: #fff;
+      border-left: 2px solid #ccc;
+      padding: 20px;
+      box-shadow: inset 2px 0 5px rgba(0,0,0,0.05);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th {
+      text-align: left;
+      background: #e6f0cc;
+      padding: 10px;
+      font-weight: bold;
+      color: #333;
+      border-bottom: 2px solid #cbdba4;
+    }
+
+    td {
+      padding: 10px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .contact {
+      color: #0077cc;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <img src="../images/logo.jpg" class="logo" alt="PDS Logo">
+    <a href="../opening.html" class="nav-btn"><img src="../images/button.png" alt="Home"><span>HOME</span></a>
+    <a href="../new-innovations.html" class="nav-btn back"><img src="../images/button back.png" alt="Back"><span>BACK</span></a>
+  </div>
+
+  <div class="container">
+    <div class="video-section">
+      <video controls>
+        <source src="../videos/vid16.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <div class="details">
+      <table>
+        <tr><th>INNOVATOR</th><td>Mr. T.T Thomas </td></tr>
+        <tr><th>INNOVATION</th><td>Pepper Thekkan</td></tr>
+        <tr><th>ADDRESS</th><td>Kakkattukada, Kattapan, Idukki </td></tr>
+        <tr><th>SPECIFICATION / DETAILS</th><td> Developed a new variety black pepper with high yield.</td></tr>
+        <tr><th>RECOGNITION</th><td>Recognized by PDS Innovation Forum</td></tr>
+        <tr><th>DIFFUSION STATUS</th><td>Direct to customer </td></tr>
+        <tr><th>CONTACT</th><td class="contact">9961463035 </td></tr>
+      </table>
+    </div>
+  </div>
+
+</body>
+</html>

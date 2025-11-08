@@ -1,0 +1,200 @@
+.version.new_innovations { color:#0000AA; background-color:#FFCC00; }
+#muse_css_mq { background-color:#FFFFFF; }
+
+/* match all other pages */
+#page {
+  z-index:1;
+  width:1366px;
+  min-height:672px;
+  background-image:none;
+  border-width:0px;
+  border-color:#000000;
+  background-color:transparent;
+  padding-bottom:96px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+/* top bar from other pages */
+#u2923 {
+  z-index:3;
+  height:96px;
+  background-color:#4a4827;
+  position:fixed;
+  top:0px;
+  left:0px;
+  right:0px;
+}
+#u2923-bw { z-index:3; }
+
+#u2924 {
+  z-index:4;
+  width:203px;
+  position:fixed;
+  top:20px;
+  left:50%;
+  margin-left:-634px; /* center like other pages */
+}
+
+#u3314 {
+  z-index:6;
+  width:65px;
+  padding-bottom:76px;
+  position:fixed;
+  top:20px;
+  left:50%;
+  margin-left:483px;
+}
+#u2926 {
+  z-index:7;
+  width:65px;
+  position:fixed;
+  top:20px;
+  left:50%;
+  margin-left:483px;
+}
+#u2930-4 {
+  z-index:9;
+  width:26px;
+  min-height:10px;
+  position:fixed;
+  top:86px;
+  left:50%;
+  margin-left:502px;
+  color:#FFFFFF;
+}
+
+#u3315 {
+  z-index:13;
+  width:65px;
+  padding-bottom:76px;
+  position:fixed;
+  top:20px;
+  left:50%;
+  margin-left:563px;
+}
+#u3306 {
+  z-index:14;
+  width:65px;
+  position:fixed;
+  top:20px;
+  left:50%;
+  margin-left:563px;
+}
+#u3308-4 {
+  z-index:16;
+  width:26px;
+  min-height:10px;
+  position:fixed;
+  top:86px;
+  left:50%;
+  margin-left:583px;
+  color:#FFFFFF;
+}
+
+/* background like other pages */
+.html {
+  background:#FFFFFF url("../images/bg.jpg") repeat left top scroll;
+}
+body {
+  position:relative;
+  min-width:1366px;
+}
+
+/* our content container */
+#u5000 {
+  z-index:2;
+  min-height:672px;
+  background-color:transparent;
+  margin-top:0px;
+  padding-top:0px;
+}
+
+/* title bar under header */
+#title-bar {
+  margin-top:110px;
+  margin-left:80px;
+  font-size:20px;
+  font-weight:bold;
+  color:#3c3c2d;
+}
+
+/* cards container: fixed width so cards don't stretch */
+#cards-wrap {
+  width:1320px; /* 1366 - some side padding */
+  margin:10px auto 0 auto;
+  /* no flex/grid for IE9 */
+  white-space:normal;
+}
+
+/* fixed cards, 6 per row */
+.card {
+  width:210px;
+  height:210px;
+  background:#FFFFFF;
+  border:2px solid #d8d8c8;
+  box-shadow:0 2px 5px rgba(0,0,0,0.08);
+  display:inline-block;
+  vertical-align:top;
+  margin:0 8px 12px 0;
+  overflow:hidden;
+  cursor:pointer;
+}
+.card img {
+  width:210px;
+  height:120px;
+  border-bottom:1px solid #ccc;
+}
+.card h3 {
+  font-size:14px;
+  color:#7a9200;
+  margin:6px 6px 2px 6px;
+  line-height:1.2em;
+}
+.card p {
+  font-size:11px;
+  margin:0 6px 2px 6px;
+  font-style:italic;
+  color:#444;
+}
+
+/* overlay IE9-safe */
+/* fullscreen overlay */
+#overlay {
+  display:none;
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background:rgba(0,0,0,0.75);
+  z-index:9999;
+}
+#overlay-box {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:#FFFFFF;
+}
+#iframeViewer {
+  width:100%;
+  height:100%;
+  border:none;
+  background:#FFFFFF;
+}
+#closeBtn {
+  position:absolute;
+  top:10px;
+  right:20px;
+  font-size:36px;
+  color:#FFFFFF;
+  cursor:pointer;
+  z-index:10000;
+}
+
+/* vertical spacer like other pages */
+.css_verticalspacer .verticalspacer{
+  height:calc(100vh - 1316px);
+}
