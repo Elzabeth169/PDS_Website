@@ -1,0 +1,361 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pds.com" resolutions="1x" timestamp="1762361802433">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="36609929" ref="all-innovations-gallery:farm-implements:students:differently-abled:documented-by-pds:mechanical:anil-gupta:general-utilities:cultivation-practices:energy---water-management:new-innovations:plant-variety:herbal:artisan---handicraft:livestock-management:small-implements:transport:idea"/>
+    <file name="master_c-master.css" crc="383125452" ref="message-ex-director-mal:message-patron-eng:message-patron-mal:message-ex-director-eng"/>
+    <file name="all-innovations-gallery.css" crc="517385181" ref="all-innovations-gallery"/>
+    <file name="innovations.css" crc="3910859018" ref="innovations"/>
+    <file name="message-ex-director-mal.css" crc="230710842" ref="message-ex-director-mal"/>
+    <file name="farm-implements.css" crc="259253320" ref="farm-implements"/>
+    <file name="message-patron-eng.css" crc="4219598074" ref="message-patron-eng"/>
+    <file name="students.css" crc="3892226632" ref="students"/>
+    <file name="pds-land-to-lab.css" crc="4134981542" ref="pds-land-to-lab"/>
+    <file name="differently-abled.css" crc="3871510620" ref="differently-abled"/>
+    <file name="message-patron-mal.css" crc="4123732395" ref="message-patron-mal"/>
+    <file name="documented-by-pds.css" crc="98068583" ref="documented-by-pds"/>
+    <file name="mechanical.css" crc="3878860321" ref="mechanical"/>
+    <file name="anil-gupta.css" crc="4089783018" ref="anil-gupta"/>
+    <file name="untitled-25.css" crc="4072787733" ref="untitled-25"/>
+    <file name="general-utilities.css" crc="3932506996" ref="general-utilities"/>
+    <file name="cultivation-practices.css" crc="417895100" ref="cultivation-practices"/>
+    <file name="energy---water-management.css" crc="368290048" ref="energy---water-management"/>
+    <file name="new-innovations.css" crc="95083033" ref="new-innovations"/>
+    <file name="plant-variety.css" crc="142355263" ref="plant-variety"/>
+    <file name="opening.css" crc="4187176125" ref="opening"/>
+    <file name="herbal.css" crc="3911929235" ref="herbal"/>
+    <file name="artisan---handicraft.css" crc="458217450" ref="artisan---handicraft"/>
+    <file name="livestock-management.css" crc="4202502944" ref="livestock-management"/>
+    <file name="small-implements.css" crc="59732255" ref="small-implements"/>
+    <file name="index.css" crc="322385477" ref="index"/>
+    <file name="transport.css" crc="3924926225" ref="transport"/>
+    <file name="message-ex-director-eng.css" crc="496930618" ref="message-ex-director-eng"/>
+    <file name="idea.css" crc="522067692" ref="idea"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:untitled-25:opening:new-innovations"/>
+    <file name="museutils.js" crc="3803043152" ref="index:innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:untitled-25:opening:new-innovations"/>
+    <file name="whatinput.js" crc="86476730" ref="index:innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:untitled-25:opening:new-innovations"/>
+    <file name="museconfig.js" crc="380897831" ref="index:innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:untitled-25:opening:new-innovations"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:untitled-25:opening:new-innovations"/>
+    <file name="require.js" crc="4157109226" ref="index:innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:untitled-25:opening:new-innovations"/>
+    <file name="webpro.js" crc="242022427" ref="innovations"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="innovations"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="innovations"/>
+    <file name="touchswipe.js" crc="4066113679" ref="innovations"/>
+  </folder>
+  <folder name="images">
+    <file name="curtain aimate2.swf" crc="41583568" ref="index"/>
+    <file name="logo.jpg" crc="4270519560" seo="true" ref="innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:new-innovations">
+      <caption webpage="message-patron-eng" alt=""/>
+      <caption webpage="general-utilities" alt=""/>
+      <caption webpage="artisan---handicraft" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="pds-land-to-lab" alt=""/>
+      <caption webpage="message-patron-mal" alt=""/>
+      <caption webpage="small-implements" alt=""/>
+      <caption webpage="students" alt=""/>
+      <caption webpage="mechanical" alt=""/>
+      <caption webpage="message-ex-director-mal" alt=""/>
+      <caption webpage="livestock-management" alt=""/>
+      <caption webpage="all-innovations-gallery" alt=""/>
+      <caption webpage="transport" alt=""/>
+      <caption webpage="idea" alt=""/>
+      <caption webpage="farm-implements" alt=""/>
+      <caption webpage="herbal" alt=""/>
+      <caption webpage="new-innovations" alt=""/>
+      <caption webpage="anil-gupta" alt=""/>
+      <caption webpage="documented-by-pds" alt=""/>
+      <caption webpage="differently-abled" alt=""/>
+      <caption webpage="cultivation-practices" alt=""/>
+      <caption webpage="message-ex-director-eng" alt=""/>
+      <caption webpage="energy---water-management" alt=""/>
+      <caption webpage="plant-variety" alt=""/>
+    </file>
+    <file name="button.png" crc="234571276" seo="true" ref="innovations:farm-implements:pds-land-to-lab:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:new-innovations">
+      <caption webpage="message-patron-eng" alt=""/>
+      <caption webpage="general-utilities" alt=""/>
+      <caption webpage="artisan---handicraft" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="pds-land-to-lab" alt=""/>
+      <caption webpage="message-patron-mal" alt=""/>
+      <caption webpage="small-implements" alt=""/>
+      <caption webpage="students" alt=""/>
+      <caption webpage="mechanical" alt=""/>
+      <caption webpage="message-ex-director-mal" alt=""/>
+      <caption webpage="livestock-management" alt=""/>
+      <caption webpage="all-innovations-gallery" alt=""/>
+      <caption webpage="transport" alt=""/>
+      <caption webpage="idea" alt=""/>
+      <caption webpage="farm-implements" alt=""/>
+      <caption webpage="herbal" alt=""/>
+      <caption webpage="new-innovations" alt=""/>
+      <caption webpage="anil-gupta" alt=""/>
+      <caption webpage="documented-by-pds" alt=""/>
+      <caption webpage="differently-abled" alt=""/>
+      <caption webpage="cultivation-practices" alt=""/>
+      <caption webpage="message-ex-director-eng" alt=""/>
+      <caption webpage="energy---water-management" alt=""/>
+      <caption webpage="plant-variety" alt=""/>
+    </file>
+    <file name="mechanical 1.jpg" crc="4028470885" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="innovations"/>
+    <file name="mechanical 2.jpg" crc="374107320" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="mechanical 3.jpg" crc="143750872" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="mechanical 4.jpg" crc="4060077450" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="innovations"/>
+    <file name="general util 1.jpg" crc="339569006" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="general util 2.jpg" crc="4169157767" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="general util 3.jpg" crc="74460098" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="energy 1.jpg" crc="422773490" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="energy.jpg" crc="414470680" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="agri practic 1.jpg" crc="4026934082" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="agri practic 2.jpg" crc="3952712134" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="agri practic 3.jpg" crc="3938037757" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 2.jpg" crc="4239133122" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 3.jpg" crc="3866140311" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 4.jpg" crc="332255567" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 5.jpg" crc="3815097352" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 6.jpg" crc="222070978" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 7.jpg" crc="412466500" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 8.jpg" crc="4007258076" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 9.jpg" crc="394037810" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 10.jpg" crc="427477659" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v 11.jpg" crc="285246935" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="plant v.jpg" crc="413278481" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="herbal 1.jpg" crc="4265974633" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="09.jpg" crc="4102668574" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="prakruthy 2.jpg" crc="4146956974" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="prakruthy1.jpg" crc="132031152" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 1.jpg" crc="313687623" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 2.jpg" crc="197758150" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 3.jpg" crc="446580401" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 4.jpg" crc="14097389" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 5.jpg" crc="208319733" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 6.jpg" crc="4100781221" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 7.jpg" crc="462847765" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 8.jpg" crc="51923951" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="farm impli 9.jpg" crc="93053326" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="pds 2.jpg" crc="3934266781" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="pds 4.jpg" crc="189080241" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="pds 5.jpg" crc="4064047267" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="pds b3.jpg" crc="4212939853" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="pds bldg.jpg" crc="3888099901" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="stip.jpg" crc="266013423" seo="true" ref="innovations">
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="innovations" alt=""/>
+    </file>
+    <file name="nabard.jpg" crc="468809579" seo="true" ref="innovations:opening">
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="nif_transperent.png" crc="498172158" seo="true" ref="innovations:opening">
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="pds logo (1).png" crc="3973531368" seo="true" ref="innovations:opening">
+      <caption webpage="innovations" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="button back.png" crc="234843926" seo="true" ref="farm-implements:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:new-innovations">
+      <caption webpage="students" alt=""/>
+      <caption webpage="general-utilities" alt=""/>
+      <caption webpage="artisan---handicraft" alt=""/>
+      <caption webpage="differently-abled" alt=""/>
+      <caption webpage="all-innovations-gallery" alt=""/>
+      <caption webpage="small-implements" alt=""/>
+      <caption webpage="mechanical" alt=""/>
+      <caption webpage="energy---water-management" alt=""/>
+      <caption webpage="documented-by-pds" alt=""/>
+      <caption webpage="new-innovations" alt=""/>
+      <caption webpage="transport" alt=""/>
+      <caption webpage="idea" alt=""/>
+      <caption webpage="farm-implements" alt=""/>
+      <caption webpage="herbal" alt=""/>
+      <caption webpage="anil-gupta" alt=""/>
+      <caption webpage="cultivation-practices" alt=""/>
+      <caption webpage="livestock-management" alt=""/>
+      <caption webpage="plant-variety" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="248336622" ref="farm-implements:message-patron-mal:message-ex-director-mal:message-patron-eng:message-ex-director-eng:herbal:plant-variety:cultivation-practices:energy---water-management:general-utilities:transport:small-implements:artisan---handicraft:livestock-management:all-innovations-gallery:idea:students:differently-abled:documented-by-pds:anil-gupta:mechanical:new-innovations">
+      <caption webpage="message-patron-eng" alt=""/>
+      <caption webpage="general-utilities" alt=""/>
+      <caption webpage="artisan---handicraft" alt=""/>
+      <caption webpage="differently-abled" alt=""/>
+      <caption webpage="all-innovations-gallery" alt=""/>
+      <caption webpage="message-patron-mal" alt=""/>
+      <caption webpage="small-implements" alt=""/>
+      <caption webpage="students" alt=""/>
+      <caption webpage="mechanical" alt=""/>
+      <caption webpage="message-ex-director-mal" alt=""/>
+      <caption webpage="livestock-management" alt=""/>
+      <caption webpage="new-innovations" alt=""/>
+      <caption webpage="transport" alt=""/>
+      <caption webpage="idea" alt=""/>
+      <caption webpage="farm-implements" alt=""/>
+      <caption webpage="herbal" alt=""/>
+      <caption webpage="documented-by-pds" alt=""/>
+      <caption webpage="anil-gupta" alt=""/>
+      <caption webpage="cultivation-practices" alt=""/>
+      <caption webpage="message-ex-director-eng" alt=""/>
+      <caption webpage="energy---water-management" alt=""/>
+      <caption webpage="plant-variety" alt=""/>
+    </file>
+    <file name="lad to lab.swf" crc="4092035311" ref="pds-land-to-lab:opening"/>
+    <file name="untitled-12.png" crc="3977907993" seo="true" ref="pds-land-to-lab">
+      <caption webpage="pds-land-to-lab" alt=""/>
+    </file>
+    <file name="photo.png" crc="3949801934" seo="true" ref="message-patron-mal:opening">
+      <caption webpage="message-patron-mal" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="4268609792" seo="true" ref="message-ex-director-mal:message-ex-director-eng:opening">
+      <caption webpage="message-ex-director-mal" alt=""/>
+      <caption webpage="message-ex-director-eng" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="dsc009361.jpg" crc="3975386356" seo="true" ref="untitled-25:opening">
+      <caption webpage="untitled-25" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="english button.png" crc="37214741" seo="true" ref="opening">
+      <caption webpage="opening" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="malyalam button.png" crc="4268365444" seo="true" ref="opening">
+      <caption webpage="opening" alt=""/>
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="bishop-removebg-preview.png" crc="295317661" seo="true" ref="opening">
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="untitled-1-removebg-preview.png" crc="4083761307" seo="true" ref="opening">
+      <caption webpage="opening" alt=""/>
+    </file>
+    <file name="u4833-5.png" crc="490448612" ref="new-innovations"/>
+    <file name="untitled-1.jpg" crc="479506322" seo="true" ref="new-innovations">
+      <caption webpage="new-innovations" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="19416082" seo="true" mt="1762338295605" redirect="true"/>
+  <file name="innovations.html" crc="4114189514" seo="true" mt="1762353516927" redirect="true"/>
+  <file name="farm-implements.html" crc="271508672" seo="true" mt="1762353821662" redirect="true"/>
+  <file name="pds-land-to-lab.html" crc="3858213083" seo="true" mt="1762338295622" redirect="true"/>
+  <file name="message-patron-mal.html" crc="4093727461" seo="true" mt="1762338302446" redirect="true"/>
+  <file name="message-ex-director-mal.html" crc="202724810" seo="true" mt="1762338302446" redirect="true"/>
+  <file name="message-patron-eng.html" crc="4055717096" seo="true" mt="1762338302446" redirect="true"/>
+  <file name="message-ex-director-eng.html" crc="3855252310" seo="true" mt="1762338302446" redirect="true"/>
+  <file name="herbal.html" crc="4130611870" seo="true" mt="1762338302446" redirect="true"/>
+  <file name="plant-variety.html" crc="4264348881" seo="true" mt="1762354385664" redirect="true"/>
+  <file name="cultivation-practices.html" crc="273426547" seo="true" mt="1762354406350" redirect="true"/>
+  <file name="energy---water-management.html" crc="133412293" seo="true" mt="1762354415813" redirect="true"/>
+  <file name="general-utilities.html" crc="4266161555" seo="true" mt="1762354426492" redirect="true"/>
+  <file name="transport.html" crc="309869743" seo="true" mt="1762354459228" redirect="true"/>
+  <file name="small-implements.html" crc="32364969" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="artisan---handicraft.html" crc="3964045991" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="livestock-management.html" crc="4173473828" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="all-innovations-gallery.html" crc="58691607" seo="true" mt="1762354475130" redirect="true"/>
+  <file name="idea.html" crc="4226811809" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="students.html" crc="4046375508" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="differently-abled.html" crc="442213388" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="documented-by-pds.html" crc="325800021" seo="true" mt="1762338302461" redirect="true"/>
+  <file name="anil-gupta.html" crc="4123649099" seo="true" mt="1762354491658" redirect="true"/>
+  <file name="mechanical.html" crc="513027666" seo="true" mt="1762354446036" redirect="true"/>
+  <file name="untitled-25.html" crc="3898225309" seo="true" mt="1762338295622" redirect="true"/>
+  <file name="opening.html" crc="58154378" seo="true" mt="1762339553941" redirect="true"/>
+  <file name="new-innovations.html" crc="4145777768" seo="true" mt="1762343636668" redirect="true"/>
+</manifest>
